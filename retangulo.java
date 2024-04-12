@@ -18,3 +18,5 @@ public class retangulo {
             //pedi pra quem tá acessando colocar qual é a altura do retângulo e coloquei um espaço pra ele digitar
 
             System.out.println ("A área desse retângulo é: " + (base * altura) + " e o seu perímetro é: " + (base * 2 + altura * 2));
+        }
+}
